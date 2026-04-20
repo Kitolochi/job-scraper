@@ -13,8 +13,8 @@ Automated scraper that runs every 12 hours (8am & 8pm ET) to find content/market
 
 1. Indeed
 2. LinkedIn Jobs
-3. We Work Remotely
-4. AngelList/Wellfound
+3. Google Jobs/Careers
+4. Wellfound (formerly AngelList)
 
 ## Files
 

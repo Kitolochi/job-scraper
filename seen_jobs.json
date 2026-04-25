@@ -698,5 +698,47 @@
     "company": "ICF",
     "url": "https://www.indeed.com/viewjob?jk=c3de37b40da5e45b",
     "found_date": "2026-04-25"
+  },
+  {
+    "id": "builtin-wing-assistant-content-writer-us-8147842",
+    "title": "Content Writer (US)",
+    "company": "Wing Assistant",
+    "url": "https://builtin.com/job/content-writer-us/8147842",
+    "found_date": "2026-04-25"
+  },
+  {
+    "id": "builtin-intetics-content-research-entry-level-8018364",
+    "title": "Content Research (Entry Level)",
+    "company": "Intetics Inc.",
+    "url": "https://builtin.com/job/content-research-entry-level/8018364",
+    "found_date": "2026-04-25"
+  },
+  {
+    "id": "builtin-tinuiti-copywriter-8995472",
+    "title": "Copywriter",
+    "company": "Tinuiti",
+    "url": "https://builtin.com/job/copywriter/8995472",
+    "found_date": "2026-04-25"
+  },
+  {
+    "id": "builtin-openx-communications-intern-9007394",
+    "title": "Intern - Communications",
+    "company": "OpenX Technologies",
+    "url": "https://builtin.com/job/intern-communications/9007394",
+    "found_date": "2026-04-25"
+  },
+  {
+    "id": "builtin-vocal-media-meme-creator-7736060",
+    "title": "Meme Creator",
+    "company": "Vocal Media",
+    "url": "https://builtin.com/job/meme-creator/7736060",
+    "found_date": "2026-04-25"
+  },
+  {
+    "id": "battlefields-communications-associate-2026",
+    "title": "Communications Associate",
+    "company": "American Battlefield Trust",
+    "url": "https://www.battlefields.org/about/employment",
+    "found_date": "2026-04-25"
   }
 ]

@@ -3397,7 +3397,7 @@
   {
     "id": "builtin-the-team-social-media-coordinator-north-america-9517892",
     "title": "Coordinator, Social Media - North America (Corporate)",
-    "company": "THE·TEAM",
+    "company": "THE\u00b7TEAM",
     "url": "https://builtin.com/job/coordinator-social-media-north-america-corporate/9517892",
     "found_date": "2026-05-31"
   },
@@ -4001,6 +4001,118 @@
     "title": "Associate, Planning",
     "company": "IPG Mediabrands (UM)",
     "url": "https://builtin.com/job/associate-planning/9652936",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-stand-together-content-communications-coordinator-9570864",
+    "title": "Content and Communications Coordinator - Children's Scholarship Fund",
+    "company": "Stand Together",
+    "url": "https://builtin.com/job/kap-2026-2027-communications-assistant-children-s-scholarship-fund/9570864",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-omniscient-digital-pr-specialist-9319140",
+    "title": "Digital PR Specialist",
+    "company": "Omniscient Digital",
+    "url": "https://builtin.com/job/digital-pr-specialist/9319140",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-worldstrides-copywriter-9605487",
+    "title": "Copywriter",
+    "company": "WorldStrides",
+    "url": "https://builtin.com/job/copywriter/9605487",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-solace-organic-content-creator-copywriter-9552376",
+    "title": "Organic Content Creator + Copywriter",
+    "company": "Solace (solace.health)",
+    "url": "https://builtin.com/job/organic-content-creator/9552376",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-driven-brands-marketing-communications-specialist-9537571",
+    "title": "Marketing Communications Specialist",
+    "company": "Driven Brands",
+    "url": "https://builtin.com/job/marketing-communications-specialist/9537571",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-cooley-communications-specialist-awards-rankings-8782520",
+    "title": "Communications Specialist (Awards & Rankings)",
+    "company": "Cooley",
+    "url": "https://builtin.com/job/communications-specialist-awards-rankings/8782520",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-crowdstrike-content-creation-coordinator-9524545",
+    "title": "Content Creation Coordinator (Remote)",
+    "company": "CrowdStrike",
+    "url": "https://builtin.com/job/content-creation-coordinator-remote/9524545",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-godaddy-trainee-social-content-creator-9655633",
+    "title": "Trainee - Social Content Creator",
+    "company": "GoDaddy",
+    "url": "https://builtin.com/job/trainee-social-content-creator/9655633",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-imagineart-organic-content-creator-9648171",
+    "title": "Organic Content Creator",
+    "company": "ImagineArt",
+    "url": "https://builtin.com/job/organic-content-creator/9648171",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-art-of-education-magazine-writer-9366220",
+    "title": "Contractor - Magazine Writer",
+    "company": "The Art of Education University",
+    "url": "https://builtin.com/job/contractor-magazine-writer/9366220",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-refindable-seo-trainee-9357360",
+    "title": "SEO Trainee",
+    "company": "Refindable",
+    "url": "https://builtin.com/job/seo-trainee/9357360",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-refindable-digital-marketing-analyst-9357299",
+    "title": "Digital Marketing Analyst",
+    "company": "Refindable",
+    "url": "https://builtin.com/job/digital-marketing-analyst/9357299",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-galaxy-ventures-content-social-media-9344587",
+    "title": "Content/Social Media",
+    "company": "Galaxy Ventures",
+    "url": "https://builtin.com/job/content-social-media/9344587",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-wow-remote-teams-marketing-coordinator-9394283",
+    "title": "Marketing Coordinator",
+    "company": "Wow Remote Teams",
+    "url": "https://builtin.com/job/marketing-coordinator/9394283",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-rocket-companies-content-writer-ai-search-9386178",
+    "title": "Content Writer, AI Search",
+    "company": "Rocket Companies",
+    "url": "https://builtin.com/job/content-writer-ai-search/9386178",
+    "found_date": "2026-06-09"
+  },
+  {
+    "id": "builtin-compose-ly-website-brand-copywriter-9521402",
+    "title": "Website and Brand Copywriter",
+    "company": "Compose.ly",
+    "url": "https://builtin.com/job/website-and-brand-copywriter/9521402",
     "found_date": "2026-06-09"
   }
 ]

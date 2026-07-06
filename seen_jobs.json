@@ -6095,5 +6095,33 @@
     "company": "Naveris",
     "url": "https://himalayas.app/companies/naveris/jobs/marketing-specialist-scientific-communications",
     "found_date": "2026-07-06"
+  },
+  {
+    "id": "himalayas-ditrop-marketing-communication-coordinator-20260706",
+    "title": "Marketing & Communication Coordinator",
+    "company": "Ditrop",
+    "url": "https://himalayas.app/companies/ditrop/jobs/marketing-communication-coordinator",
+    "found_date": "2026-07-06"
+  },
+  {
+    "id": "himalayas-grizzle-content-writer-freelance-20260706",
+    "title": "Content Writer (Freelance)",
+    "company": "Grizzle",
+    "url": "https://himalayas.app/companies/grizzle/jobs/content-writer-freelance",
+    "found_date": "2026-07-06"
+  },
+  {
+    "id": "himalayas-software-finder-content-writer-20260706",
+    "title": "Content Writer",
+    "company": "Software Finder",
+    "url": "https://himalayas.app/companies/software-finder/jobs/content-writer",
+    "found_date": "2026-07-06"
+  },
+  {
+    "id": "himalayas-nogigiddy-blog-article-writer-20260706",
+    "title": "Blog & Article Writer",
+    "company": "NoGigiddy",
+    "url": "https://himalayas.app/companies/nogigiddy/jobs/blog-article-writer",
+    "found_date": "2026-07-06"
   }
 ]

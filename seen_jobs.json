@@ -6571,5 +6571,33 @@
     "company": "Red Carrot",
     "url": "https://himalayas.app/companies/red-carrot/jobs/writer-i",
     "found_date": "2026-07-12"
+  },
+  {
+    "id": "builtin-ameresco-marketing-coordinator-10140215",
+    "title": "Marketing Coordinator",
+    "company": "Ameresco, Inc.",
+    "url": "https://builtin.com/job/marketing-coordinator/10140215",
+    "found_date": "2026-07-12"
+  },
+  {
+    "id": "himalayas-huge-ape-media-social-media-coordinator-20260702",
+    "title": "Social Media Coordinator",
+    "company": "Huge Ape Media",
+    "url": "https://himalayas.app/companies/huge-ape-media/jobs/social-media-coordinator",
+    "found_date": "2026-07-12"
+  },
+  {
+    "id": "builtin-electrify-video-partners-development-researcher-veritasium-9902902",
+    "title": "Development Researcher, Veritasium",
+    "company": "Electrify Video Partners",
+    "url": "https://builtin.com/job/development-researcher-veritasium/9902902",
+    "found_date": "2026-07-12"
+  },
+  {
+    "id": "remotive-12minutes-social-media-content-creator-5217930",
+    "title": "Social Media & Content Creator",
+    "company": "12minutes GmbH",
+    "url": "https://remotive.com/remote/jobs/marketing/social-media-content-creator-5217930",
+    "found_date": "2026-07-12"
   }
 ]

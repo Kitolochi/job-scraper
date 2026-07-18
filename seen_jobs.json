@@ -7489,74 +7489,137 @@
     "url": "https://www.linkedin.com/jobs/view/marketing-specialist-at-national-research-group-4419525966",
     "found_date": "2026-07-17"
   },
-{
-  "id": "linkedin-emma-torre-marketing-coordinator-4441986555",
-  "title": "Marketing Coordinator",
-  "company": "Emma of Torre.ai",
-  "url": "https://www.linkedin.com/jobs/view/marketing-coordinator-at-emma-of-torre-ai-4441986555",
-  "found_date": "2026-07-18"
-},
-{
-  "id": "linkedin-hrcap-marketing-associate-4439237870",
-  "title": "Marketing Associate",
-  "company": "HRCap, Inc.",
-  "url": "https://www.linkedin.com/jobs/view/marketing-associate-at-hrcap-inc-4439237870",
-  "found_date": "2026-07-18"
-},
-{
-  "id": "linkedin-hrcap-brand-management-associate-4439258000",
-  "title": "Brand Management Associate",
-  "company": "HRCap, Inc.",
-  "url": "https://www.linkedin.com/jobs/view/brand-management-associate-at-hrcap-inc-4439258000",
-  "found_date": "2026-07-18"
-},
-{
-  "id": "indeed-eeec32342a111312",
-  "title": "Communications Specialist",
-  "company": "CivicScience",
-  "url": "https://www.indeed.com/viewjob?jk=eeec32342a111312",
-  "found_date": "2026-07-18"
-},
-{
-  "id": "indeed-56eed7658f18314e",
-  "title": "Digital Marketing Associate",
-  "company": "TechSoup",
-  "url": "https://www.indeed.com/viewjob?jk=56eed7658f18314e",
-  "found_date": "2026-07-18"
-},
-{
-  "id": "linkedin-cenexel-marketing-specialist-4438026393",
-  "title": "Marketing Specialist",
-  "company": "CenExel",
-  "url": "https://www.linkedin.com/jobs/view/marketing-specialist-at-cenexel-4438026393",
-  "found_date": "2026-07-18"
-},
-{
-  "id": "indeed-36cf9a983706096f",
-  "title": "Jr. Marketing Specialist",
-  "company": "The Digital Ring",
-  "url": "https://www.indeed.com/viewjob?jk=36cf9a983706096f",
-  "found_date": "2026-07-18"
-},
-{
-  "id": "indeed-801600790ee90f6d",
-  "title": "Junior Copy Coordinator",
-  "company": "Calvin Klein",
-  "url": "https://www.indeed.com/viewjob?jk=801600790ee90f6d",
-  "found_date": "2026-07-18"
-},
-{
-  "id": "indeed-0254ce03df4677cc",
-  "title": "Media Relations Publicist - Lifestyle, Health and Wellness",
-  "company": "Otter PR",
-  "url": "https://www.indeed.com/viewjob?jk=0254ce03df4677cc",
-  "found_date": "2026-07-18"
-},
-{
-  "id": "indeed-33aef71c1eb9abe9",
-  "title": "Public Relations Publicist - Tech, Healthcare, Finance",
-  "company": "Otter PR",
-  "url": "https://www.indeed.com/viewjob?jk=33aef71c1eb9abe9",
-  "found_date": "2026-07-18"
-}
+  {
+    "id": "linkedin-emma-torre-marketing-coordinator-4441986555",
+    "title": "Marketing Coordinator",
+    "company": "Emma of Torre.ai",
+    "url": "https://www.linkedin.com/jobs/view/marketing-coordinator-at-emma-of-torre-ai-4441986555",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "linkedin-hrcap-marketing-associate-4439237870",
+    "title": "Marketing Associate",
+    "company": "HRCap, Inc.",
+    "url": "https://www.linkedin.com/jobs/view/marketing-associate-at-hrcap-inc-4439237870",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "linkedin-hrcap-brand-management-associate-4439258000",
+    "title": "Brand Management Associate",
+    "company": "HRCap, Inc.",
+    "url": "https://www.linkedin.com/jobs/view/brand-management-associate-at-hrcap-inc-4439258000",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "indeed-eeec32342a111312",
+    "title": "Communications Specialist",
+    "company": "CivicScience",
+    "url": "https://www.indeed.com/viewjob?jk=eeec32342a111312",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "indeed-56eed7658f18314e",
+    "title": "Digital Marketing Associate",
+    "company": "TechSoup",
+    "url": "https://www.indeed.com/viewjob?jk=56eed7658f18314e",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "linkedin-cenexel-marketing-specialist-4438026393",
+    "title": "Marketing Specialist",
+    "company": "CenExel",
+    "url": "https://www.linkedin.com/jobs/view/marketing-specialist-at-cenexel-4438026393",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "indeed-36cf9a983706096f",
+    "title": "Jr. Marketing Specialist",
+    "company": "The Digital Ring",
+    "url": "https://www.indeed.com/viewjob?jk=36cf9a983706096f",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "indeed-801600790ee90f6d",
+    "title": "Junior Copy Coordinator",
+    "company": "Calvin Klein",
+    "url": "https://www.indeed.com/viewjob?jk=801600790ee90f6d",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "indeed-0254ce03df4677cc",
+    "title": "Media Relations Publicist - Lifestyle, Health and Wellness",
+    "company": "Otter PR",
+    "url": "https://www.indeed.com/viewjob?jk=0254ce03df4677cc",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "indeed-33aef71c1eb9abe9",
+    "title": "Public Relations Publicist - Tech, Healthcare, Finance",
+    "company": "Otter PR",
+    "url": "https://www.indeed.com/viewjob?jk=33aef71c1eb9abe9",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "linkedin-uplift-desk-content-marketing-associate-4441724073",
+    "title": "Content Marketing Associate",
+    "company": "UPLIFT Desk",
+    "url": "https://www.linkedin.com/jobs/view/content-marketing-associate-at-uplift-desk-4441724073",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "linkedin-dough-jr-copywriter-4439246943",
+    "title": "Jr. Copywriter",
+    "company": "dough.",
+    "url": "https://www.linkedin.com/jobs/view/jr-copywriter-at-dough-4439246943",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "linkedin-crunch-fitness-communications-outreach-specialist-4439230119",
+    "title": "Communications & Outreach Specialist",
+    "company": "Crunch Fitness (Fit Fusion, LLC)",
+    "url": "https://www.linkedin.com/jobs/view/communications-outreach-specialist-at-crunch-fitness-fit-fusion-llc-4439230119",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "linkedin-creative-agency-digital-content-coordinator-4441288968",
+    "title": "Digital Content Coordinator",
+    "company": "The Creative Agency",
+    "url": "https://www.linkedin.com/jobs/view/digital-content-coordinator-at-the-creative-agency-4441288968",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "linkedin-arctic-wolf-marketing-performance-analyst-4435224652",
+    "title": "Marketing Performance Analyst",
+    "company": "Arctic Wolf",
+    "url": "https://www.linkedin.com/jobs/view/marketing-performance-analyst-at-arctic-wolf-4435224652",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "linkedin-ea-engineering-communications-coordinator-4438017050",
+    "title": "Communications Coordinator",
+    "company": "EA Engineering, Science, and Technology, Inc.",
+    "url": "https://www.linkedin.com/jobs/view/communications-coordinator-at-ea-engineering-science-and-technology-inc-pbc-4438017050",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "linkedin-cuddly-content-writer-4439424740",
+    "title": "Content Writer (Writing Strategist)",
+    "company": "CUDDLY",
+    "url": "https://www.linkedin.com/jobs/view/writing-strategist-at-cuddly-4439424740",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "linkedin-software-connect-content-writer-4436227778",
+    "title": "Content Writer",
+    "company": "Software Connect",
+    "url": "https://www.linkedin.com/jobs/view/content-writer-business-software-reviews-at-software-connect-4436227778",
+    "found_date": "2026-07-18"
+  },
+  {
+    "id": "linkedin-revolve-junior-editorial-copywriter-4432865549",
+    "title": "Junior Editorial Copywriter",
+    "company": "REVOLVE",
+    "url": "https://www.linkedin.com/jobs/view/junior-editorial-copywriter-fwrd-men-s-at-revolve-4432865549",
+    "found_date": "2026-07-18"
+  }
 ]

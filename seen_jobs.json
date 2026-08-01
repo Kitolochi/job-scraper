@@ -8951,5 +8951,40 @@
     "company": "The Latimer Group",
     "url": "https://www.thelatimergroup.com/careers",
     "found_date": "2026-08-01"
+  },
+  {
+    "id": "builtin-penguin-random-house-editorial-assistant-del-rey-10492084",
+    "title": "Editorial Assistant, Del Rey",
+    "company": "Penguin Random House (Bertelsmann)",
+    "url": "https://builtin.com/job/editorial-assistant-del-rey-open-remote/10492084",
+    "found_date": "2026-08-01"
+  },
+  {
+    "id": "lever-jobgether-marketing-communication-specialist-0654d3ff",
+    "title": "Marketing Communication Specialist",
+    "company": "Jobgether (healthtech company)",
+    "url": "https://jobs.lever.co/jobgether/0654d3ff-6ab0-4c59-9963-69c1221751cc",
+    "found_date": "2026-08-01"
+  },
+  {
+    "id": "workable-pavago-ai-marketing-coordinator-31B627E124",
+    "title": "AI-Powered Marketing Coordinator",
+    "company": "Pavago",
+    "url": "https://apply.workable.com/pavago/j/31B627E124/",
+    "found_date": "2026-08-01"
+  },
+  {
+    "id": "lever-dijital-team-marketing-coordinator-7d93d0dc",
+    "title": "Marketing Coordinator",
+    "company": "Dijital Team",
+    "url": "https://jobs.lever.co/dijital-team-pty-ltd/7d93d0dc-7364-40e9-af17-02b3e2fc2b67",
+    "found_date": "2026-08-01"
+  },
+  {
+    "id": "builtin-jobs-for-humanity-entry-level-marketing-10468898",
+    "title": "Entry Level Marketing",
+    "company": "Jobs for Humanity",
+    "url": "https://builtin.com/job/entry-level-marketing/10468898",
+    "found_date": "2026-08-01"
   }
 ]

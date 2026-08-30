@@ -12694,7 +12694,7 @@
     "company": "Ubego",
     "url": "https://builtin.com/job/copywriter/10906421",
     "found_date": "2026-08-30",
-    "note": "DEPRIORITIZED: Remote, revenue-sharing only (no salary), project-based, write interactive city quest storylines for mobile app — not a traditional paying job"
+    "note": "DEPRIORITIZED: Remote, revenue-sharing only (no salary), project-based, write interactive city quest storylines for mobile app \u2014 not a traditional paying job"
   },
   {
     "id": "builtin-tofugu-en-focused-support-editor-10883120",
@@ -12702,7 +12702,7 @@
     "company": "Tofugu",
     "url": "https://builtin.com/job/en-focused-support-editor/10883120",
     "found_date": "2026-08-30",
-    "note": "DEPRIORITIZED: Remote worldwide, $44.93-$49.43/hr, contractor up to 20 hrs/wk, requires advanced Japanese fluency — disqualifying requirement"
+    "note": "DEPRIORITIZED: Remote worldwide, $44.93-$49.43/hr, contractor up to 20 hrs/wk, requires advanced Japanese fluency \u2014 disqualifying requirement"
   },
   {
     "id": "builtin-south-project-social-media-lead-influencer-10493777",
@@ -12743,5 +12743,61 @@
     "url": "https://wellfound.com/jobs/4634224-course-writer-and-editor-ux-ui-and-ai",
     "found_date": "2026-08-30",
     "note": "DEPRIORITIZED: Remote UTC+0 to +4 only (Europe/South Africa/Middle East), $20-100K, 4 yrs experience required, US-based applicants likely ineligible"
+  },
+  {
+    "id": "indeed-gdit-technical-editor-associate-edaa3690639d58d2",
+    "title": "Technical Editor Associate",
+    "company": "General Dynamics Information Technology (GDIT)",
+    "url": "https://www.indeed.com/viewjob?jk=edaa3690639d58d2",
+    "found_date": "2026-08-30",
+    "note": "QUALITY MATCH: $26-36/hr, Remote USA, on-call/part-time (min 18 hrs/wk peak), editing/proofreading communications role, 1+ yr exp or equivalent, GDIT is a large reputable defense/IT contractor"
+  },
+  {
+    "id": "indeed-firstnorthmarketing-writing-coordinator-assistant-5a6ab5a5716f0ede",
+    "title": "Writing Coordinator Assistant",
+    "company": "First North Marketing",
+    "url": "https://www.indeed.com/viewjob?jk=5a6ab5a5716f0ede",
+    "found_date": "2026-08-30",
+    "note": "QUALITY MATCH: $20/hr, Remote, Part-time Contract 20-30 hrs/wk (12-6pm CT), content briefs from client questionnaires, assigning to writers/editors, proofreading, bachelor's in comm/English/marketing required"
+  },
+  {
+    "id": "indeed-ross-investigators-blogger-marketer-831cff2f2c0d6744",
+    "title": "Blogger/Logger/Marketer",
+    "company": "Ross Investigators",
+    "url": "https://www.indeed.com/viewjob?jk=831cff2f2c0d6744",
+    "found_date": "2026-08-30",
+    "note": "CAUTION: $250/blog post + $40/hr logging + $20/social post, Hybrid (monthly Denver in-person meetings required), freelance, private investigations firm \u2014 blog/social fits profile but includes body-cam footage logging; no AI allowed in writing"
+  },
+  {
+    "id": "indeed-pepperstory-freelance-prose-writer-fe7a8b71a608a444",
+    "title": "Freelance Prose Writer (Fantasy/Paranormal Romance Web-Fiction)",
+    "company": "Pepper Story",
+    "url": "https://www.indeed.com/viewjob?jk=fe7a8b71a608a444",
+    "found_date": "2026-08-30",
+    "note": "DEPRIORITIZED: $300-600/wk, Remote, paranormal romance web-fiction writing \u2014 too niche, not marketing/communications"
+  },
+  {
+    "id": "indeed-autocad-assignment-help-content-writer-b4922c95bfc5b1a0",
+    "title": "Content Writer",
+    "company": "AutoCAD Assignment Help",
+    "url": "https://www.indeed.com/viewjob?jk=b4922c95bfc5b1a0",
+    "found_date": "2026-08-30",
+    "note": "DEPRIORITIZED: $950/month Remote, academic help service for AutoCAD \u2014 very low pay, questionable employer type"
+  },
+  {
+    "id": "indeed-human-reach-resume-writer-ee07f90b943cf7aa",
+    "title": "Resume Writer",
+    "company": "The Human Reach",
+    "url": "https://www.indeed.com/viewjob?jk=ee07f90b943cf7aa",
+    "found_date": "2026-08-30",
+    "note": "DEPRIORITIZED: Remote, pay listed as $0 (posting error), requires proven experience in resume writing/career coaching, not entry-level"
+  },
+  {
+    "id": "indeed-busigence-technologies-fresher-technical-writer-67743adc285ec02e",
+    "title": "Fresher - Technical Writer",
+    "company": "Busigence Technologies",
+    "url": "https://www.indeed.com/viewjob?jk=67743adc285ec02e",
+    "found_date": "2026-08-30",
+    "note": "DEPRIORITIZED: Remote, uses Indian English 'Fresher' for new grad \u2014 likely India-based role, US applicants likely ineligible"
   }
 ]

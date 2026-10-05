@@ -14841,7 +14841,6 @@
     "company": "SupportNinja",
     "url": "https://himalayas.app/companies/supportninja/jobs/content-marketing-specialist-remote-4939916756",
     "found_date": "2026-10-04"
-
   },
   {
     "id": "himalayas-vulcury-blog-marketing-intern",
@@ -14870,5 +14869,69 @@
     "company": "Ellipsis Marketing",
     "url": "https://himalayas.app/companies/ellipsis-marketing/jobs/content-writer-remote-31-33k",
     "found_date": "2026-10-04"
+  },
+  {
+    "id": "himalayas-starrez-content-marketing-coordinator",
+    "title": "Content Marketing Coordinator",
+    "company": "StarRez",
+    "url": "https://himalayas.app/companies/starrez/jobs/content-marketing-coordinator",
+    "location": "Remote (US)",
+    "found_date": "2026-10-05"
+  },
+  {
+    "id": "himalayas-american-systems-bd-marketing-specialist",
+    "title": "BD/Marketing Specialist",
+    "company": "AMERICAN SYSTEMS",
+    "url": "https://himalayas.app/companies/american-systems/jobs/bd-marketing-specialist",
+    "location": "Remote",
+    "found_date": "2026-10-05"
+  },
+  {
+    "id": "himalayas-wow-remote-teams-content-communications-assistant",
+    "title": "Content & Communications Assistant",
+    "company": "WOW Remote Teams",
+    "url": "https://himalayas.app/companies/wow-remote-teams/jobs/content-communications-assistant",
+    "location": "Remote",
+    "found_date": "2026-10-05"
+  },
+  {
+    "id": "himalayas-williamsburg-learning-digital-marketing-coordinator",
+    "title": "Digital Marketing Coordinator",
+    "company": "Williamsburg Learning",
+    "url": "https://himalayas.app/companies/williamsburg-learning/jobs/digital-marketing-coordinator",
+    "location": "Remote",
+    "found_date": "2026-10-05"
+  },
+  {
+    "id": "himalayas-callrevu-marketing-coordinator-full-time",
+    "title": "Marketing Coordinator (Full-Time)",
+    "company": "CallRevu",
+    "url": "https://himalayas.app/companies/callrevu/jobs/marketing-coordinator-full-time",
+    "location": "Remote",
+    "found_date": "2026-10-05"
+  },
+  {
+    "id": "himalayas-remote-recruitment-marketing-assistant",
+    "title": "Marketing Assistant",
+    "company": "Remote Recruitment",
+    "url": "https://himalayas.app/companies/remote-recruitment/jobs/marketing-assistant",
+    "location": "Remote",
+    "found_date": "2026-10-05"
+  },
+  {
+    "id": "himalayas-seetec-marketing-communications-coordinator",
+    "title": "Marketing and Communications Coordinator",
+    "company": "Seetec",
+    "url": "https://himalayas.app/companies/seetec/jobs/marketing-and-communications-coordinator-remote-southwest-8-month-fixed-term-c",
+    "location": "Remote (Southwest)",
+    "found_date": "2026-10-05"
+  },
+  {
+    "id": "himalayas-kdci-content-writer",
+    "title": "Content Writer",
+    "company": "KDCI Outsourcing",
+    "url": "https://himalayas.app/companies/kdcioutsourcing/jobs/content-writer",
+    "location": "Remote",
+    "found_date": "2026-10-05"
   }
 ]

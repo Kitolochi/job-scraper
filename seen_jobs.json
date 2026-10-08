@@ -15180,7 +15180,7 @@
     "company": "Muck Rack",
     "url": "https://job-boards.greenhouse.io/muckrack/jobs/8624896002",
     "location": "Remote (USA)",
-    "salary": "$70K–$80K/yr",
+    "salary": "$70K\u2013$80K/yr",
     "found_date": "2026-10-07",
     "note": "TOP FIT: Research analyst track, PR/media intelligence, 2-4 yrs comms/analytics"
   },
@@ -15200,7 +15200,7 @@
     "company": "Viacoremedia",
     "url": "https://wellfound.com/jobs/4307474-digital-marketing-content-coordinator",
     "location": "Remote (Toronto / Work from Home)",
-    "salary": "$35K–$100K/yr",
+    "salary": "$35K\u2013$100K/yr",
     "found_date": "2026-10-07",
     "note": "MODERATE FIT: Content coordination + Google/Meta ads, 2 yrs exp, posted Oct 5"
   },
@@ -15223,5 +15223,50 @@
     "salary": "Not listed",
     "found_date": "2026-10-07",
     "note": "GOOD FIT: EdTech content writing role, posted today Oct 7"
+  },
+  {
+    "id": "microsoft-agc-communications-specialist-remowork-6abdaa74",
+    "title": "Communications Specialist (Contract)",
+    "company": "Microsoft (via AGS staffing)",
+    "url": "https://remowork.life/jobs/6abdaa74d2f3bde811bb0a80/communications-specialist",
+    "location": "Remote (US)",
+    "found_date": "2026-10-08",
+    "note": "FEATURED URGENT: Remote, $33.50-38/hr, contract via AGS, LinkedIn+Instagram social copy, posted Sept 30 2026, strong extension chance"
+  },
+  {
+    "id": "lyrasis-marketing-assistant-us-remote-3a42a612",
+    "title": "Marketing Assistant (U.S. Based, Remote)",
+    "company": "LYRASIS",
+    "url": "https://anyreality.jobboardly.com/jobs/marketing-assistant-u-s-based-remote-3a42a612",
+    "location": "Remote (US)",
+    "found_date": "2026-10-08",
+    "note": "Strong match: $53K-57K, full-time US remote, content+social+campaigns+events coordination for library nonprofit"
+  },
+  {
+    "id": "builtin-m3usa-digital-marketing-associate-remote-3772279",
+    "title": "Digital Marketing Associate (Remote)",
+    "company": "M3 USA",
+    "url": "https://builtin.com/job/digital-marketing-associate-remote/3772279",
+    "location": "Remote (Raleigh NC)",
+    "found_date": "2026-10-08",
+    "note": "Entry level, 0-2 yrs, marketing/business degree, campaign management + automation platforms"
+  },
+  {
+    "id": "opal-group-marketing-coordinator-4dayweek-4434b658",
+    "title": "Marketing Coordinator",
+    "company": "OPAL Group",
+    "url": "https://4dayweek.io/job/marketing-coordinator-at-opal-group-4434b658",
+    "location": "Remote (USA)",
+    "found_date": "2026-10-08",
+    "note": "Entry level contractor, $1,100/month (LOW PAY), content scheduling+email+social+events, English-only resumes"
+  },
+  {
+    "id": "opal-group-conference-audience-development-remotive-5463855",
+    "title": "Conference Audience Development Associate",
+    "company": "OPAL Group",
+    "url": "https://remotive.com/remote/jobs/sales/conference-audience-development-associate-5463855",
+    "location": "Remote",
+    "found_date": "2026-10-08",
+    "note": "Entry level contractor, $1,200/month (LOW PAY), outreach/sales-adjacent role, advanced English required"
   }
 ]

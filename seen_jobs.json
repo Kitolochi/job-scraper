@@ -15357,7 +15357,7 @@
     "location": "Remote (USA)",
     "salary": "Not listed",
     "found_date": "2026-10-11",
-    "note": "MODERATE FIT: Part-time, entry level, nonprofit Christian summer camp. Appeared as 'New' on Remotive content coordinator page Oct 2026. Full listing URL not confirmed — verify on Remotive or pinecove.com/careers."
+    "note": "MODERATE FIT: Part-time, entry level, nonprofit Christian summer camp. Appeared as 'New' on Remotive content coordinator page Oct 2026. Full listing URL not confirmed \u2014 verify on Remotive or pinecove.com/careers."
   },
   {
     "id": "builtin-skypoint-economics-content-writer-11608869",
@@ -15367,7 +15367,7 @@
     "location": "Remote",
     "salary": "$80K-$100K/yr",
     "found_date": "2026-10-11",
-    "note": "VERY FRESH (posted today): Listed as mid-level with high salary — verify actual requirements. Remote, full-time."
+    "note": "VERY FRESH (posted today): Listed as mid-level with high salary \u2014 verify actual requirements. Remote, full-time."
   },
   {
     "id": "builtin-frans-explorermore-remote-travel-marketing-coordinator-11585690",
@@ -15417,7 +15417,7 @@
     "location": "Remote (US/Canada)",
     "salary": "Not listed",
     "found_date": "2026-10-11",
-    "note": "GOOD FIT: Entry level, sports media company, posted 9 days ago. Thursday-Monday schedule — note unusual hours."
+    "note": "GOOD FIT: Entry level, sports media company, posted 9 days ago. Thursday-Monday schedule \u2014 note unusual hours."
   },
   {
     "id": "builtin-netboxlabs-field-marketing-coordinator-11378484",
@@ -15467,7 +15467,7 @@
     "location": "Remote",
     "salary": "$60/hr (contract)",
     "found_date": "2026-10-11",
-    "note": "MODERATE FIT: Entry level, contract role, $60/hr, posted 20 days ago. Technical writing — may need technical background."
+    "note": "MODERATE FIT: Entry level, contract role, $60/hr, posted 20 days ago. Technical writing \u2014 may need technical background."
   },
   {
     "id": "builtin-tripexpert-content-manager-travel-writer-11277088",
@@ -15487,7 +15487,7 @@
     "location": "Remote (None Such, VA)",
     "salary": "$24-$29/hr",
     "found_date": "2026-10-11",
-    "note": "MODERATE FIT: Entry level, hospitality software, $24-29/hr, posted 23 days ago. Getting older — apply ASAP."
+    "note": "MODERATE FIT: Entry level, hospitality software, $24-29/hr, posted 23 days ago. Getting older \u2014 apply ASAP."
   },
   {
     "id": "builtin-camp-systems-marketing-coordinator-11260636",
@@ -15527,7 +15527,7 @@
     "location": "Remote (USA)",
     "salary": "$62,000-$79,000/yr",
     "found_date": "2026-10-12",
-    "note": "MODERATE FIT: Junior-tagged contract copywriter for fashion/retail e-commerce. High-volume email/SMS/digital copy. May require mid-level experience — verify. Reposted ~6 days ago."
+    "note": "MODERATE FIT: Junior-tagged contract copywriter for fashion/retail e-commerce. High-volume email/SMS/digital copy. May require mid-level experience \u2014 verify. Reposted ~6 days ago."
   },
   {
     "id": "builtin-vocal-media-ai-creative-automation-associate-8977473",
@@ -15558,5 +15558,133 @@
     "salary": "Not listed",
     "found_date": "2026-10-12",
     "note": "ENTRY POINT: Internship, no experience required, social impact/sustainability startup. Submit 3 writing samples. Posted ~5 days ago. Verify pay."
+  },
+  {
+    "id": "builtin-social-media-manager-11614705",
+    "title": "Social Media Manager",
+    "company": "Apricot International",
+    "url": "https://builtin.com/job/social-media-manager/11614705",
+    "location": "Remote, USA",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "remoterocketship-aha-intern-grant-proposal-writing",
+    "title": "Intern, Grant & Proposal Writing",
+    "company": "American Heart Association",
+    "url": "https://remoterocketship.com/us/company/american-heart-association-org/jobs/intern-grant-proposal-writing-texas-remote/",
+    "location": "Texas, Remote",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "remoterocketship-tag-marketing-intern",
+    "title": "Marketing Intern",
+    "company": "Technology Association of Georgia",
+    "url": "https://remoterocketship.com/us/company/technology-association-of-georgia-org/jobs/marketing-intern-united-states-remote/",
+    "location": "US Remote",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "remoterocketship-lcv-communications-intern",
+    "title": "Communications Intern",
+    "company": "League of Conservation Voters",
+    "url": "https://remoterocketship.com/us/company/league-of-conservation-voters-org/jobs/communications-intern-united-states-remote-2/",
+    "location": "US Remote",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "remoterocketship-aha-intern-marketing-comm-design",
+    "title": "Intern, Marketing & Communications, Design",
+    "company": "American Heart Association",
+    "url": "https://remoterocketship.com/us/company/american-heart-association-org/jobs/intern-marketing-communications-design-texas-remote/",
+    "location": "Texas, Remote",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "remoterocketship-southstate-bank-marketing-comm-intern",
+    "title": "Marketing and Communications Intern",
+    "company": "SouthState Bank",
+    "url": "https://remoterocketship.com/us/company/southstatebank/jobs/marketing-and-communications-intern-united-states-remote/",
+    "location": "Multi-state, Remote",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "remoterocketship-hercampus-integrated-marketing-intern",
+    "title": "Integrated Marketing Intern",
+    "company": "Her Campus Media",
+    "url": "https://remoterocketship.com/us/company/hercampusmedia/jobs/integrated-marketing-intern-united-states-remote/",
+    "location": "US Remote",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "remoterocketship-mckesson-communications-intern",
+    "title": "Communications Intern",
+    "company": "McKesson",
+    "url": "https://remoterocketship.com/us/company/mckesson/jobs/communications-intern-united-states-remote/",
+    "location": "TX/VA Remote",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "builtin-media-strategist-11424912",
+    "title": "Media Strategist",
+    "company": "Terakeet",
+    "url": "https://builtin.com/job/media-strategist/11424912",
+    "location": "Remote (near Dallas/Austin/Charlotte/Atlanta/Syracuse)",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "builtin-social-media-specialist-11611376",
+    "title": "Social Media Specialist",
+    "company": "Wankamotors",
+    "url": "https://builtin.com/job/social-media-specialist/11611376",
+    "location": "Remote or Hybrid, Liverpool NY",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "remoterocketship-osu-communications-student-assistant",
+    "title": "Communications Student Assistant",
+    "company": "Ohio State University",
+    "url": "https://remoterocketship.com/us/company/osu-edu/jobs/communications-student-assistant-ohio-remote/",
+    "location": "Ohio, Remote",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "builtin-physician-marketing-specialist-11607748",
+    "title": "Physician Marketing Specialist",
+    "company": "Massive Bio",
+    "url": "https://builtin.com/job/physician-marketing-specialist/11607748",
+    "location": "Remote or Hybrid",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "remoterocketship-think-academy-marketing-intern-reddit",
+    "title": "Marketing Intern (Reddit/community)",
+    "company": "Think Academy U.S.",
+    "url": "https://remoterocketship.com/us/company/thethinkacademy/jobs/marketing-intern-california-remote/",
+    "location": "California, Remote",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "remoterocketship-cultural-survival-communications-internship",
+    "title": "Communications Internship",
+    "company": "Cultural Survival",
+    "url": "https://remoterocketship.com/us/company/cs-org/jobs/communications-internship-united-states-remote-2/",
+    "location": "US Remote",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "remoterocketship-koppers-corporate-communications-intern",
+    "title": "Corporate Communications Intern (5-10 hrs/week)",
+    "company": "Koppers Inc.",
+    "url": "https://remoterocketship.com/us/company/koppers/jobs/corporate-communications-intern-5-10-hrs-week-pennsylvania-remote/",
+    "location": "Pennsylvania, Remote",
+    "found_date": "2026-10-13"
+  },
+  {
+    "id": "wellfound-marketing-intern-4762731",
+    "title": "Marketing Intern",
+    "company": "Cheaper",
+    "url": "https://wellfound.com/jobs/4762731-marketing-intern",
+    "location": "Remote, Global",
+    "found_date": "2026-10-13"
   }
 ]

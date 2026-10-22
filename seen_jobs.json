@@ -16339,7 +16339,7 @@
     "company": "Resource Innovations",
     "url": "https://www.remoterocketship.com/us/company/resource-innovations/jobs/marketing-specialist-illinois-remote/",
     "location": "Illinois (Remote, USA)",
-    "salary": "$55,000–$65,000/yr",
+    "salary": "$55,000\u2013$65,000/yr",
     "found_date": "2026-10-21",
     "note": "STRONG FIT: Junior (1-3 yrs), content coordination, proofreading, email/social/print campaigns, no degree req, posted Oct 14"
   },
@@ -16359,8 +16359,57 @@
     "company": "Nadia Care",
     "url": "https://www.remoterocketship.com/us/company/nadia-care/jobs/marketing-specialist-united-states-remote/",
     "location": "Remote (contiguous US, excl. ND/AL/HI/PR)",
-    "salary": "$65,000–$75,000/yr",
+    "salary": "$65,000\u2013$75,000/yr",
     "found_date": "2026-10-21",
     "note": "STRETCH: Junior/mid (2-5 yrs healthcare marketing), newsletters/blog/social/email, good salary, posted Oct 21"
+  },
+  {
+    "id": "workable-ballotpedia-local-expansion-staff-researcher-20261005",
+    "title": "Local Expansion Staff Researcher",
+    "company": "Ballotpedia",
+    "url": "https://apply.workable.com/ballotpedia/jobs/view/08B70E463A.md",
+    "found_date": "2026-10-22"
+  },
+  {
+    "id": "lever-jobgether-marketing-communications-coordinator-i-856bb3e4",
+    "title": "Marketing and Communications Coordinator I",
+    "company": "Jobgether",
+    "url": "https://jobs.lever.co/jobgether/856bb3e4-0f2e-426b-9f47-f008a633d3f4",
+    "found_date": "2026-10-22"
+  },
+  {
+    "id": "lever-jobgether-content-marketing-coordinator-b42bb40f",
+    "title": "Remote Content Marketing Coordinator",
+    "company": "Jobgether",
+    "url": "https://jobs.lever.co/jobgether/b42bb40f-475a-4bc0-b4cd-ec966a8b0c45",
+    "found_date": "2026-10-22"
+  },
+  {
+    "id": "swooped-careerswift-marketing-coordinator-026f9",
+    "title": "Marketing Coordinator (Remote)",
+    "company": "CareerSwift",
+    "url": "https://swooped.co/job-postings/marketing-coordinator-remote-careerswift-026f9",
+    "found_date": "2026-10-22"
+  },
+  {
+    "id": "swooped-careerswift-content-writer-copywriter-ca5c9",
+    "title": "Content Writer / Copywriter (Remote)",
+    "company": "CareerSwift",
+    "url": "https://swooped.co/job-postings/content-writer-copywriter-remote-careerswift-ca5c9",
+    "found_date": "2026-10-22"
+  },
+  {
+    "id": "lever-launchsquad-pr-coordinator-2026-graduates-0f4f5b47",
+    "title": "Public Relations Coordinator (2026 Graduates)",
+    "company": "LaunchSquad",
+    "url": "https://jobs.lever.co/launchsquad/0f4f5b47-0d59-40b3-9c6d-17a1abc11769",
+    "found_date": "2026-10-22"
+  },
+  {
+    "id": "remotive-hireframe-market-research-analyst-5937310",
+    "title": "Market Research Analyst",
+    "company": "Hireframe",
+    "url": "https://remotive.com/remote/jobs/data/market-research-analyst-5937310",
+    "found_date": "2026-10-22"
   }
 ]

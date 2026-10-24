@@ -16439,17 +16439,17 @@
     "company": "AARP",
     "url": "https://aarp.eightfold.ai/careers/job/1443154071770",
     "location": "Remote (Washington, D.C.)",
-    "salary": "$18–$28/hour",
+    "salary": "$18\u2013$28/hour",
     "found_date": "2026-10-23",
     "note": "STRONG FIT: Communications intern, remote, $18-28/hr, well-known nonprofit, posted today Oct 23"
   },
   {
     "id": "centene-communications-intern-undergraduate-summer-1656374",
-    "title": "Communications Intern – Undergraduate, Summer",
+    "title": "Communications Intern \u2013 Undergraduate, Summer",
     "company": "Centene Corporation",
     "url": "https://centene.wd5.myworkdayjobs.com/centene_external/job/remote-fl/communications-intern--undergraduate---summer-_1656374",
     "location": "Remote (Florida)",
-    "salary": "$18–$26/hour",
+    "salary": "$18\u2013$26/hour",
     "found_date": "2026-10-23",
     "note": "STRONG FIT: Communications intern, remote FL, $18-26/hr, Fortune 50 company, posted today Oct 23"
   },
@@ -16469,7 +16469,7 @@
     "company": "Post University",
     "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c5c0e206-fe6c-4bd3-bf04-2bc56cfc5ded&ccId=19000101_000001&jobId=650168",
     "location": "Remote (Connecticut)",
-    "salary": "$0–$20/hour",
+    "salary": "$0\u2013$20/hour",
     "found_date": "2026-10-23",
     "note": "MODERATE FIT: Communications + outreach, remote CT, verify pay (may be unpaid), posted Oct 22"
   },
@@ -16479,7 +16479,7 @@
     "company": "Stand Together",
     "url": "https://jobs.lever.co/standtogether/e5af5347-0887-41f5-8693-79a2d8299283",
     "location": "Remote (Washington, D.C.)",
-    "salary": "$5,500–$7,500/year stipend",
+    "salary": "$5,500\u2013$7,500/year stipend",
     "found_date": "2026-10-23",
     "note": "LOW PAY: Communications/media focus, remote DC, fellowship-style stipend only, posted Oct 21"
   },
@@ -16492,5 +16492,55 @@
     "salary": "Not listed",
     "found_date": "2026-10-23",
     "note": "PARTIAL FIT: Weekends only, requires video editing/graphic design, conservative media, posted Oct 22"
+  },
+  {
+    "id": "remotewriterglobal-social-media-content-associate-oct23-2026",
+    "title": "Social Media & Content Associate (Entry Level Remote)",
+    "company": "Remote Writer Global",
+    "url": "https://remotewriterglobal.com/social-media-content-associate-entry-level-remote",
+    "location": "Remote (worldwide)",
+    "salary": "Competitive entry-level (details on application)",
+    "found_date": "2026-10-24",
+    "note": "URGENT STRONG FIT: Entry level, fully remote, social content (Instagram, TikTok, Canva), posted Oct 23 2026 (yesterday). Portfolio required."
+  },
+  {
+    "id": "idealist-annual-reviews-knowable-magazine-temp-editorial-assistant",
+    "title": "Temporary Editorial Assistant, Knowable Magazine (Remote)",
+    "company": "Annual Reviews (Knowable Magazine)",
+    "url": "https://www.idealist.org/en/nonprofit-job/49eab9ff3d7a4d9d9247c048e3016e21-temporary-editorial-assistant-knowable-magazine-remote-annual-reviews-san-mateo",
+    "location": "Remote (17 US states, Pacific Time hours)",
+    "salary": "$25.64\u2013$32.82/hour (~$53K\u2013$68K annualized), temporary up to 1 year",
+    "found_date": "2026-10-24",
+    "note": "STRONG FIT: Entry-level writing/editorial, CMS + Mailchimp newsletters, $25-33/hr, start date Nov 2 2026 (very soon!), reputable science publisher"
+  },
+  {
+    "id": "remotewriterglobal-social-media-digital-marketing-specialist-oct13-2026",
+    "title": "Social Media & Digital Marketing Specialist (Entry Level Remote)",
+    "company": "Remote Writer Global",
+    "url": "https://www.remotewriterglobal.com/social-media-digital-marketing-specialist-entry-level-remote-2/",
+    "location": "Remote",
+    "salary": "Not disclosed",
+    "found_date": "2026-10-24",
+    "note": "STRONG FIT: Entry level, fully remote, social media + digital marketing, no prior exp required (training provided), posted Oct 13 2026"
+  },
+  {
+    "id": "dynamitejobs-uxpilot-content-marketing-specialist-2026",
+    "title": "Content Marketing Specialist (Remote, Full-Time)",
+    "company": "UX Pilot",
+    "url": "https://dynamitejobs.com/company/uxpilot/remote-job/content-marketing-specialist-remote-full-time",
+    "location": "Remote",
+    "salary": "Up to $45,000/year",
+    "found_date": "2026-10-24",
+    "note": "MODERATE FIT: Content marketing (blogs, docs, user guides), remote, ~$45K, recent posting. Requires AI tools familiarity + basic UX/UI knowledge."
+  },
+  {
+    "id": "idealist-sanky-communications-entry-level-digital-specialist",
+    "title": "Entry Level Digital Specialist",
+    "company": "Sanky Communications",
+    "url": "https://www.idealist.org/en/consultant-job/afb453389ea3402e909b33a6d2c5fe16-entry-level-digital-specialist-sanky-communications-inc-new-york",
+    "location": "Hybrid \u2013 Remote US or NYC Midtown (east coast hours)",
+    "salary": "Up to $44,000/year",
+    "found_date": "2026-10-24",
+    "note": "MODERATE FIT: Entry-level digital comms/marketing for nonprofits, hybrid remote, up to $44K. Email marketing + Google Analytics exp helpful."
   }
 ]

@@ -17762,58 +17762,170 @@
     "url": "https://jobgether.com/offer/687e3351fd9af3ce40810062-marketing-assistant",
     "found_date": "2026-11-07"
   },
-{
-  "id": "linkedin-team-remotely-junior-content-marketing-specialist-3828132384",
-  "title": "Junior Content Marketing Specialist",
-  "company": "Team Remotely Inc.",
-  "location": "Remote",
-  "url": "https://www.linkedin.com/jobs/view/junior-content-marketing-specialist-at-team-remotely-inc-3828132384",
-  "found_date": "2026-11-08",
-  "note": "HIGH: Entry level, remote, $61K-70K/yr, posted ~11 hours ago. 1yr experience preferred. Junior content marketing role."
-},
-{
-  "id": "linkedin-teaching-strategies-content-development-associate-3616647954",
-  "title": "Content Development Associate (Remote)",
-  "company": "Teaching Strategies, LLC",
-  "location": "Remote",
-  "url": "https://www.linkedin.com/jobs/view/content-development-associate-remote-at-teaching-strategies-llc-3616647954",
-  "found_date": "2026-11-08",
-  "note": "HIGH: Entry level, full-time, remote, posted ~3 days ago. EdTech content/research writing role."
-},
-{
-  "id": "virtualvocations-marketing-and-social-media-coordinator-3302332",
-  "title": "Marketing and Social Media Coordinator",
-  "company": "(via Virtual Vocations)",
-  "location": "Remote",
-  "url": "https://www.virtualvocations.com/job/marketing-and-social-media-coordinator-3302332-i.html",
-  "found_date": "2026-11-08",
-  "note": "MODERATE: Entry level (0-2 yrs), remote, contract. Reviewed Oct 15, 2026. Verify still open."
-},
-{
-  "id": "virtualvocations-marketing-and-content-coordinator-3237513",
-  "title": "Marketing and Content Coordinator",
-  "company": "(via Virtual Vocations)",
-  "location": "Remote",
-  "url": "https://www.virtualvocations.com/job/marketing-and-content-coordinator-3237513-i.html",
-  "found_date": "2026-11-08",
-  "note": "MODERATE: Entry level, remote, marketing + content focus. Verify posting date."
-},
-{
-  "id": "appreviewglobal-entry-level-content-writer-web-social-media-20261105",
-  "title": "Entry Level Content Writer - Web, Social Media",
-  "company": "App Review Global",
-  "location": "Remote",
-  "url": "https://www.appreviewglobal.com/entry-level-content-writer-web-social-media/",
-  "found_date": "2026-11-08",
-  "note": "LOW-MODERATE: Posted Nov 5, 2026. $35/hr contractor. Verify legitimacy - generic patterns on site."
-},
-{
-  "id": "appreviewglobal-junior-content-writer-20261102",
-  "title": "Junior Content Writer",
-  "company": "App Review Global",
-  "location": "Remote",
-  "url": "https://www.appreviewglobal.com/junior-content-writer/",
-  "found_date": "2026-11-08",
-  "note": "LOW-MODERATE: Posted Nov 2, 2026. $35/hr contractor. Verify legitimacy - generic patterns on site."
-}
+  {
+    "id": "linkedin-team-remotely-junior-content-marketing-specialist-3828132384",
+    "title": "Junior Content Marketing Specialist",
+    "company": "Team Remotely Inc.",
+    "location": "Remote",
+    "url": "https://www.linkedin.com/jobs/view/junior-content-marketing-specialist-at-team-remotely-inc-3828132384",
+    "found_date": "2026-11-08",
+    "note": "HIGH: Entry level, remote, $61K-70K/yr, posted ~11 hours ago. 1yr experience preferred. Junior content marketing role."
+  },
+  {
+    "id": "linkedin-teaching-strategies-content-development-associate-3616647954",
+    "title": "Content Development Associate (Remote)",
+    "company": "Teaching Strategies, LLC",
+    "location": "Remote",
+    "url": "https://www.linkedin.com/jobs/view/content-development-associate-remote-at-teaching-strategies-llc-3616647954",
+    "found_date": "2026-11-08",
+    "note": "HIGH: Entry level, full-time, remote, posted ~3 days ago. EdTech content/research writing role."
+  },
+  {
+    "id": "virtualvocations-marketing-and-social-media-coordinator-3302332",
+    "title": "Marketing and Social Media Coordinator",
+    "company": "(via Virtual Vocations)",
+    "location": "Remote",
+    "url": "https://www.virtualvocations.com/job/marketing-and-social-media-coordinator-3302332-i.html",
+    "found_date": "2026-11-08",
+    "note": "MODERATE: Entry level (0-2 yrs), remote, contract. Reviewed Oct 15, 2026. Verify still open."
+  },
+  {
+    "id": "virtualvocations-marketing-and-content-coordinator-3237513",
+    "title": "Marketing and Content Coordinator",
+    "company": "(via Virtual Vocations)",
+    "location": "Remote",
+    "url": "https://www.virtualvocations.com/job/marketing-and-content-coordinator-3237513-i.html",
+    "found_date": "2026-11-08",
+    "note": "MODERATE: Entry level, remote, marketing + content focus. Verify posting date."
+  },
+  {
+    "id": "appreviewglobal-entry-level-content-writer-web-social-media-20261105",
+    "title": "Entry Level Content Writer - Web, Social Media",
+    "company": "App Review Global",
+    "location": "Remote",
+    "url": "https://www.appreviewglobal.com/entry-level-content-writer-web-social-media/",
+    "found_date": "2026-11-08",
+    "note": "LOW-MODERATE: Posted Nov 5, 2026. $35/hr contractor. Verify legitimacy - generic patterns on site."
+  },
+  {
+    "id": "appreviewglobal-junior-content-writer-20261102",
+    "title": "Junior Content Writer",
+    "company": "App Review Global",
+    "location": "Remote",
+    "url": "https://www.appreviewglobal.com/junior-content-writer/",
+    "found_date": "2026-11-08",
+    "note": "LOW-MODERATE: Posted Nov 2, 2026. $35/hr contractor. Verify legitimacy - generic patterns on site."
+  },
+  {
+    "id": "virtualvocations-entry-level-marketing-coordinator-3233846",
+    "title": "Entry-Level Marketing Coordinator",
+    "company": "(via VirtualVocations)",
+    "url": "https://www.virtualvocations.com/job/entry-level-marketing-coordinator-3233846-i.html",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "virtualvocations-marketing-communications-coordinator-3245358",
+    "title": "Marketing Communications Coordinator",
+    "company": "(via VirtualVocations)",
+    "url": "https://www.virtualvocations.com/job/marketing-communications-coordinator-3245358-i.html",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "virtualvocations-digital-marketing-coordinator-3246516",
+    "title": "Digital Marketing Coordinator",
+    "company": "(via VirtualVocations)",
+    "url": "https://www.virtualvocations.com/job/digital-marketing-coordinator-3246516-i.html",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "virtualvocations-communications-coordinator-3234563",
+    "title": "Communications Coordinator",
+    "company": "(via VirtualVocations)",
+    "url": "https://www.virtualvocations.com/job/communications-coordinator-3234563-i.html",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "virtualvocations-communications-coordinator-spanish-3236747",
+    "title": "Communications Coordinator (Spanish)",
+    "company": "(via VirtualVocations)",
+    "url": "https://www.virtualvocations.com/job/communications-coordinator-spanish-3236747-i.html",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "virtualvocations-campaign-coordinator-to-manager-3311857",
+    "title": "Campaign Coordinator to Manager",
+    "company": "(via VirtualVocations)",
+    "url": "https://www.virtualvocations.com/job/campaign-coordinator-to-manager-3311857-i.html",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "virtualvocations-marketing-content-coordinator-3237514",
+    "title": "Marketing & Content Coordinator",
+    "company": "(via VirtualVocations)",
+    "url": "https://www.virtualvocations.com/job/marketing-content-coordinator-3237514-i.html",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "appreviewglobal-virtual-writer-blog-content-entry-level-20261108",
+    "title": "Virtual Writer - Blog Content (Entry Level)",
+    "company": "(via App Review Global)",
+    "url": "https://www.appreviewglobal.com/virtual-writer-blog-content-entry-level-work-from-home/",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "appreviewglobal-content-writer-chatgpt-specialist-entry-level-20261101",
+    "title": "Content Writer - ChatGPT Specialist (Entry Level, WFH)",
+    "company": "(via App Review Global)",
+    "url": "https://www.appreviewglobal.com/content-writer-chatgpt-specialist-work-from-home-entry-level/",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "appreviewglobal-entry-level-remote-content-writer-no-experience",
+    "title": "Entry Level Remote Content Writer (No Experience)",
+    "company": "(via App Review Global)",
+    "url": "https://www.appreviewglobal.com/entry-level-remote-content-writer-no-experience-flexible-hours/",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "appreviewglobal-website-content-writer-entry-level",
+    "title": "Website Content Writer (Entry Level, Work from Home)",
+    "company": "(via App Review Global)",
+    "url": "https://www.appreviewglobal.com/website-content-writer-entry-level-work-from-home/",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "appreviewglobal-remote-social-media-creative-writer-entry-level",
+    "title": "Remote Social Media Creative Writer (Entry Level)",
+    "company": "(via App Review Global)",
+    "url": "https://www.appreviewglobal.com/remote-social-media-creative-writer-entry-level/",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "appreviewglobal-remote-content-writer-blogs-beginner-friendly-immediate-start",
+    "title": "Remote Content Writer for Blogs (Beginner Friendly, Immediate Start)",
+    "company": "(via App Review Global)",
+    "url": "https://www.appreviewglobal.com/remote-content-writer-for-blogs-beginner-friendly-immediate-start-2/",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "appreviewglobal-online-content-writer-work-from-phone",
+    "title": "Online Content Writer - Work from Phone",
+    "company": "(via App Review Global)",
+    "url": "https://www.appreviewglobal.com/online-content-writer-work-from-phone/",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "appreviewglobal-creative-content-creator-work-from-anywhere",
+    "title": "Creative Content Creator (Work from Anywhere)",
+    "company": "(via App Review Global)",
+    "url": "https://www.appreviewglobal.com/creative-content-creator-work-from-anywhere/",
+    "found_date": "2026-11-08"
+  },
+  {
+    "id": "remotewriterglobal-content-writer-museum-exhibitions-entry-level",
+    "title": "Content Writer - Museum Exhibitions (Entry Level)",
+    "company": "Remote Writer Global",
+    "url": "https://www.remotewriterglobal.com/content-writer-museum-exhibitions-entry-level/",
+    "found_date": "2026-11-08"
+  }
 ]

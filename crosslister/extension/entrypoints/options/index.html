@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="manifest.open_in_tab" content="true" />
+    <title>Crosslister</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Crosslister</h1>
+      <span id="who"></span>
+    </header>
+
+    <section id="signin" hidden>
+      <h2>Sign in</h2>
+      <form id="signin-form">
+        <label>Email <input name="email" type="email" required autocomplete="username" /></label>
+        <label>Password <input name="password" type="password" required autocomplete="current-password" /></label>
+        <button>Sign in</button>
+        <p class="error" id="signin-error"></p>
+      </form>
+    </section>
+
+    <main id="app" hidden>
+      <section>
+        <div class="row">
+          <h2>Items</h2>
+          <button id="new-item">New item</button>
+        </div>
+        <p class="error" id="list-error"></p>
+        <table id="items"></table>
+      </section>
+
+      <section id="editor" hidden>
+        <h2 id="editor-title">New item</h2>
+        <form id="item-form">
+          <input type="hidden" name="id" />
+          <div class="grid">
+            <label>SKU <input name="sku" placeholder="auto" /></label>
+            <label class="wide">Title <input name="title" required maxlength="80" /></label>
+            <label class="wide">Description <textarea name="description" rows="6"></textarea></label>
+            <label>Brand <input name="brand" /></label>
+            <label>Category <select name="category" required></select></label>
+            <label>Size <input name="size" /></label>
+            <label>Color <input name="color" /></label>
+            <label>Condition <select name="condition" required></select></label>
+            <label>Price ($) <input name="price" inputmode="decimal" required /></label>
+            <label>Original price ($) <input name="original_price" inputmode="decimal" /></label>
+            <label>Cost ($) <input name="cost" inputmode="decimal" /></label>
+            <label class="wide">Add photos <input name="files" type="file" accept="image/*" multiple /></label>
+          </div>
+          <div id="photos" class="photos"></div>
+          <div class="row">
+            <button>Save</button>
+            <button type="button" id="cancel-edit">Cancel</button>
+          </div>
+          <p class="error" id="form-error"></p>
+        </form>
+      </section>
+
+      <section>
+        <h2>Selector health check</h2>
+        <p>Opens the site's new-listing page and reports which selectors in <code>extension/sites/*.config.ts</code> match.</p>
+        <div class="row">
+          <button data-health="poshmark">Check Poshmark</button>
+          <button data-health="depop">Check Depop</button>
+        </div>
+        <div id="health"></div>
+      </section>
+    </main>
+
+    <script type="module" src="./main.ts"></script>
+  </body>
+</html>

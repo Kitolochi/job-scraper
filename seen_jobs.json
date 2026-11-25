@@ -19121,5 +19121,40 @@
   "https://www.virtualvocations.com/job/marketing-coordinator-3058583-i.html",
   "https://www.virtualvocations.com/job/junior-content-writer-3347545-i.html",
   "https://www.virtualvocations.com/job/content-writer-3204472-i.html",
-  "https://remotejobs.org/remote-jobs/marketing-coordinator-careerswift"
+  "https://remotejobs.org/remote-jobs/marketing-coordinator-careerswift",
+  {
+    "id": "greenhouse-conga-junior-content-writer-copywriter-4871346007",
+    "title": "Junior Content Writer/Copywriter",
+    "company": "Conga",
+    "url": "https://job-boards.greenhouse.io/conga/jobs/4871346007",
+    "found_date": "2026-11-25"
+  },
+  {
+    "id": "smartrecruiters-medtrainer-marketing-communications-specialist-20261125",
+    "title": "Marketing Communications Specialist (Remote)",
+    "company": "MedTrainer",
+    "url": "https://jobs.smartrecruiters.com/MedTrainer/743999779387126-marketing-communications-specialist-remote-",
+    "found_date": "2026-11-25"
+  },
+  {
+    "id": "himalayas-intetics-content-research-specialist-entry-level-20261125",
+    "title": "Content Research Specialist (Entry Level, Training Provided)",
+    "company": "Intetics",
+    "url": "https://himalayas.app/companies/intetics/jobs/1005-content-research-specialist-entry-level-training-provided",
+    "found_date": "2026-11-25"
+  },
+  {
+    "id": "himalayas-online-river-content-writer-20261125",
+    "title": "Content Writer",
+    "company": "Online River",
+    "url": "https://himalayas.app/companies/online-river/jobs/content-writer-8194887746",
+    "found_date": "2026-11-25"
+  },
+  {
+    "id": "himalayas-chainlink-labs-content-writer-20261125",
+    "title": "Content Writer",
+    "company": "Chainlink Labs",
+    "url": "https://himalayas.app/companies/chainlink-labs/jobs/content-writer",
+    "found_date": "2026-11-25"
+  }
 ]
